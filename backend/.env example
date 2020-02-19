@@ -1,0 +1,1 @@
+mongoDBURL=mongodb+srv://{usuario}:{senha}@cluster0-giqgf.mongodb.net/omnistack10?retryWrites=true&w=majority
